@@ -1,0 +1,816 @@
+{"level":"info","message":"🚀 Server running on port 3000","service":"sleep-disorder-api","timestamp":"2026-02-14T10:13:19.601Z"}
+{"level":"info","message":"📊 Environment: development","service":"sleep-disorder-api","timestamp":"2026-02-14T10:13:19.608Z"}
+{"level":"info","message":"🔗 API available at http://localhost:3000","service":"sleep-disorder-api","timestamp":"2026-02-14T10:13:19.610Z"}
+{"level":"info","message":"SIGINT signal received: closing HTTP server","service":"sleep-disorder-api","timestamp":"2026-02-14T10:46:49.959Z"}
+{"level":"info","message":"🚀 Server running on port 3000","service":"sleep-disorder-api","timestamp":"2026-02-14T10:46:56.267Z"}
+{"level":"info","message":"📊 Environment: development","service":"sleep-disorder-api","timestamp":"2026-02-14T10:46:56.302Z"}
+{"level":"info","message":"🔗 API available at http://localhost:3000","service":"sleep-disorder-api","timestamp":"2026-02-14T10:46:56.325Z"}
+{"level":"info","message":"SIGINT signal received: closing HTTP server","service":"sleep-disorder-api","timestamp":"2026-02-14T10:49:44.884Z"}
+{"level":"info","message":"🚀 Server running on port 3000","service":"sleep-disorder-api","timestamp":"2026-02-14T10:50:05.164Z"}
+{"level":"info","message":"📊 Environment: development","service":"sleep-disorder-api","timestamp":"2026-02-14T10:50:05.173Z"}
+{"level":"info","message":"🔗 API available at http://localhost:3000","service":"sleep-disorder-api","timestamp":"2026-02-14T10:50:05.174Z"}
+{"level":"info","message":"POST /api/auth/register","service":"sleep-disorder-api","timestamp":"2026-02-14T10:50:29.284Z"}
+{"level":"info","message":"SIGINT signal received: closing HTTP server","service":"sleep-disorder-api","timestamp":"2026-02-14T10:51:06.650Z"}
+{"level":"info","message":"🚀 Server running on port 3000","service":"sleep-disorder-api","timestamp":"2026-02-14T10:51:13.087Z"}
+{"level":"info","message":"📊 Environment: development","service":"sleep-disorder-api","timestamp":"2026-02-14T10:51:13.093Z"}
+{"level":"info","message":"🔗 API available at http://localhost:3000","service":"sleep-disorder-api","timestamp":"2026-02-14T10:51:13.094Z"}
+{"level":"info","message":"POST /api/auth/register","service":"sleep-disorder-api","timestamp":"2026-02-14T10:51:15.509Z"}
+{"level":"info","message":"New user registered: hemanthking4125@gmail.com","service":"sleep-disorder-api","timestamp":"2026-02-14T10:51:15.819Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-14T10:51:16.233Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-14T10:51:16.257Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-14T10:51:33.150Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-14T10:51:34.392Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-14T10:51:36.313Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-14T10:51:39.045Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-14T10:51:44.883Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-14T10:52:50.850Z"}
+{"level":"info","message":"User d33c3de5-b599-4374-8ae4-c55481843d2d uploaded 10 activities","service":"sleep-disorder-api","timestamp":"2026-02-14T10:52:51.002Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-14T10:52:54.992Z"}
+{"level":"info","message":"Running prediction on 10 activities","service":"sleep-disorder-api","timestamp":"2026-02-14T10:52:55.003Z"}
+{"level":"info","message":"Prediction generated for user d33c3de5-b599-4374-8ae4-c55481843d2d: normal","service":"sleep-disorder-api","timestamp":"2026-02-14T10:52:55.483Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-14T10:52:55.622Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-14T10:52:55.636Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-14T10:53:28.301Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-14T10:53:50.859Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-14T10:54:37.467Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-14T10:54:37.470Z"}
+{"level":"info","message":"SIGINT signal received: closing HTTP server","service":"sleep-disorder-api","timestamp":"2026-02-14T10:54:56.039Z"}
+{"level":"info","message":"🚀 Server running on port 3000","service":"sleep-disorder-api","timestamp":"2026-02-14T10:56:02.620Z"}
+{"level":"info","message":"📊 Environment: development","service":"sleep-disorder-api","timestamp":"2026-02-14T10:56:02.626Z"}
+{"level":"info","message":"🔗 API available at http://localhost:3000","service":"sleep-disorder-api","timestamp":"2026-02-14T10:56:02.627Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-14T10:56:31.771Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-14T10:57:01.830Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-14T10:57:09.282Z"}
+{"level":"info","message":"PATCH /api/recommendations/f83dcb12-0eb9-468b-8754-106470d4f805/read","service":"sleep-disorder-api","timestamp":"2026-02-14T10:57:11.279Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-14T10:57:11.328Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-14T10:57:13.705Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-14T10:57:14.217Z"}
+{"level":"info","message":"SIGINT signal received: closing HTTP server","service":"sleep-disorder-api","timestamp":"2026-02-14T10:57:20.084Z"}
+{"level":"info","message":"🚀 Server running on port 3000","service":"sleep-disorder-api","timestamp":"2026-02-14T10:57:23.775Z"}
+{"level":"info","message":"📊 Environment: development","service":"sleep-disorder-api","timestamp":"2026-02-14T10:57:23.781Z"}
+{"level":"info","message":"🔗 API available at http://localhost:3000","service":"sleep-disorder-api","timestamp":"2026-02-14T10:57:23.782Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-14T10:57:32.836Z"}
+{"level":"info","message":"User d33c3de5-b599-4374-8ae4-c55481843d2d uploaded 20 activities","service":"sleep-disorder-api","timestamp":"2026-02-14T10:57:33.040Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-14T10:58:19.731Z"}
+{"level":"info","message":"User d33c3de5-b599-4374-8ae4-c55481843d2d uploaded 4 activities","service":"sleep-disorder-api","timestamp":"2026-02-14T10:58:19.873Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-14T10:58:24.305Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-14T10:58:34.553Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-14T10:58:37.773Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-14T10:58:37.782Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-14T10:58:39.559Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-14T10:58:48.517Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-14T10:58:50.620Z"}
+{"level":"info","message":"SIGINT signal received: closing HTTP server","service":"sleep-disorder-api","timestamp":"2026-02-14T11:00:41.520Z"}
+{"level":"info","message":"🚀 Server running on port 3000","service":"sleep-disorder-api","timestamp":"2026-02-14T11:00:44.549Z"}
+{"level":"info","message":"📊 Environment: development","service":"sleep-disorder-api","timestamp":"2026-02-14T11:00:44.555Z"}
+{"level":"info","message":"🔗 API available at http://localhost:3000","service":"sleep-disorder-api","timestamp":"2026-02-14T11:00:44.556Z"}
+{"level":"info","message":"SIGINT signal received: closing HTTP server","service":"sleep-disorder-api","timestamp":"2026-02-14T11:03:15.873Z"}
+{"level":"info","message":"🚀 Server running on port 3000","service":"sleep-disorder-api","timestamp":"2026-02-14T11:03:19.502Z"}
+{"level":"info","message":"📊 Environment: development","service":"sleep-disorder-api","timestamp":"2026-02-14T11:03:19.514Z"}
+{"level":"info","message":"🔗 API available at http://localhost:3000","service":"sleep-disorder-api","timestamp":"2026-02-14T11:03:19.518Z"}
+{"level":"info","message":"SIGINT signal received: closing HTTP server","service":"sleep-disorder-api","timestamp":"2026-02-14T11:05:20.794Z"}
+{"level":"info","message":"🚀 Server running on port 3000","service":"sleep-disorder-api","timestamp":"2026-02-14T11:05:23.484Z"}
+{"level":"info","message":"📊 Environment: development","service":"sleep-disorder-api","timestamp":"2026-02-14T11:05:23.489Z"}
+{"level":"info","message":"🔗 API available at http://localhost:3000","service":"sleep-disorder-api","timestamp":"2026-02-14T11:05:23.490Z"}
+{"level":"info","message":"SIGINT signal received: closing HTTP server","service":"sleep-disorder-api","timestamp":"2026-02-14T11:10:29.954Z"}
+{"level":"info","message":"🚀 Server running on port 3000","service":"sleep-disorder-api","timestamp":"2026-02-14T11:10:34.051Z"}
+{"level":"info","message":"📊 Environment: development","service":"sleep-disorder-api","timestamp":"2026-02-14T11:10:34.057Z"}
+{"level":"info","message":"🔗 API available at http://localhost:3000","service":"sleep-disorder-api","timestamp":"2026-02-14T11:10:34.058Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-14T11:13:42.285Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-14T11:13:42.319Z"}
+{"level":"info","message":"SIGINT signal received: closing HTTP server","service":"sleep-disorder-api","timestamp":"2026-02-14T11:16:22.352Z"}
+{"level":"info","message":"🚀 Server running on port 3000","service":"sleep-disorder-api","timestamp":"2026-02-14T11:16:26.667Z"}
+{"level":"info","message":"📊 Environment: development","service":"sleep-disorder-api","timestamp":"2026-02-14T11:16:26.672Z"}
+{"level":"info","message":"🔗 API available at http://localhost:3000","service":"sleep-disorder-api","timestamp":"2026-02-14T11:16:26.673Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-14T11:16:33.985Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-14T11:16:34.037Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-14T11:20:02.909Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-14T11:20:11.059Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-14T11:34:55.035Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-14T11:34:55.046Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-14T11:36:15.239Z"}
+{"level":"info","message":"User d33c3de5-b599-4374-8ae4-c55481843d2d uploaded 9 activities","service":"sleep-disorder-api","timestamp":"2026-02-14T11:36:15.396Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-14T11:37:37.365Z"}
+{"level":"info","message":"User d33c3de5-b599-4374-8ae4-c55481843d2d uploaded 6 activities","service":"sleep-disorder-api","timestamp":"2026-02-14T11:37:37.458Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-14T11:38:44.111Z"}
+{"level":"info","message":"User d33c3de5-b599-4374-8ae4-c55481843d2d uploaded 4 activities","service":"sleep-disorder-api","timestamp":"2026-02-14T11:38:44.223Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-14T11:38:46.380Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-14T11:38:48.599Z"}
+{"level":"info","message":"Running prediction on 53 activities","service":"sleep-disorder-api","timestamp":"2026-02-14T11:38:48.642Z"}
+{"level":"info","message":"Prediction generated for user d33c3de5-b599-4374-8ae4-c55481843d2d: normal","service":"sleep-disorder-api","timestamp":"2026-02-14T11:38:48.824Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-14T11:41:53.793Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-14T11:41:53.806Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-14T11:41:57.898Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-14T11:41:59.210Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-14T11:42:01.960Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-14T11:47:32.079Z"}
+{"level":"info","message":"User d33c3de5-b599-4374-8ae4-c55481843d2d uploaded 2 activities","service":"sleep-disorder-api","timestamp":"2026-02-14T11:47:32.233Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-14T11:47:35.651Z"}
+{"level":"info","message":"Running prediction on 55 activities","service":"sleep-disorder-api","timestamp":"2026-02-14T11:47:35.691Z"}
+{"level":"info","message":"Prediction generated for user d33c3de5-b599-4374-8ae4-c55481843d2d: normal","service":"sleep-disorder-api","timestamp":"2026-02-14T11:47:35.857Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-14T11:49:33.871Z"}
+{"level":"info","message":"User d33c3de5-b599-4374-8ae4-c55481843d2d uploaded 20 activities","service":"sleep-disorder-api","timestamp":"2026-02-14T11:49:34.002Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-14T11:49:38.056Z"}
+{"level":"info","message":"Running prediction on 75 activities","service":"sleep-disorder-api","timestamp":"2026-02-14T11:49:38.092Z"}
+{"level":"info","message":"Prediction generated for user d33c3de5-b599-4374-8ae4-c55481843d2d: normal","service":"sleep-disorder-api","timestamp":"2026-02-14T11:49:38.254Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-14T11:50:29.309Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-14T11:50:29.314Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-14T11:50:32.760Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-14T11:50:32.765Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-14T11:50:32.784Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-14T11:50:32.792Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-14T11:50:38.470Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-14T11:50:43.403Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-14T11:50:50.308Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-14T11:50:50.315Z"}
+{"level":"info","message":"SIGINT signal received: closing HTTP server","service":"sleep-disorder-api","timestamp":"2026-02-14T11:51:07.941Z"}
+{"level":"info","message":"🚀 Server running on port 3000","service":"sleep-disorder-api","timestamp":"2026-02-16T07:19:30.798Z"}
+{"level":"info","message":"📊 Environment: development","service":"sleep-disorder-api","timestamp":"2026-02-16T07:19:30.807Z"}
+{"level":"info","message":"🔗 API available at http://localhost:3000","service":"sleep-disorder-api","timestamp":"2026-02-16T07:19:30.808Z"}
+{"level":"info","message":"🚀 Server running on port 3000","service":"sleep-disorder-api","timestamp":"2026-02-16T07:41:59.918Z"}
+{"level":"info","message":"📊 Environment: development","service":"sleep-disorder-api","timestamp":"2026-02-16T07:41:59.924Z"}
+{"level":"info","message":"🔗 API available at http://localhost:3000","service":"sleep-disorder-api","timestamp":"2026-02-16T07:41:59.925Z"}
+{"level":"info","message":"SIGINT signal received: closing HTTP server","service":"sleep-disorder-api","timestamp":"2026-02-16T08:38:12.540Z"}
+{"level":"info","message":"🚀 Server running on port 3000","service":"sleep-disorder-api","timestamp":"2026-02-16T08:38:19.250Z"}
+{"level":"info","message":"📊 Environment: development","service":"sleep-disorder-api","timestamp":"2026-02-16T08:38:19.256Z"}
+{"level":"info","message":"🔗 API available at http://localhost:3000","service":"sleep-disorder-api","timestamp":"2026-02-16T08:38:19.258Z"}
+{"level":"info","message":"GET /health","service":"sleep-disorder-api","timestamp":"2026-02-16T08:40:17.613Z"}
+{"level":"info","message":"GET /health","service":"sleep-disorder-api","timestamp":"2026-02-16T08:59:08.680Z"}
+{"level":"info","message":"GET /health","service":"sleep-disorder-api","timestamp":"2026-02-16T09:06:53.258Z"}
+{"level":"info","message":"GET /health","service":"sleep-disorder-api","timestamp":"2026-02-16T09:07:24.140Z"}
+{"level":"info","message":"SIGINT signal received: closing HTTP server","service":"sleep-disorder-api","timestamp":"2026-02-16T09:19:02.484Z"}
+{"level":"info","message":"🚀 Server running on port 3000","service":"sleep-disorder-api","timestamp":"2026-02-16T09:19:09.778Z"}
+{"level":"info","message":"📊 Environment: development","service":"sleep-disorder-api","timestamp":"2026-02-16T09:19:09.784Z"}
+{"level":"info","message":"🔗 API available at http://localhost:3000","service":"sleep-disorder-api","timestamp":"2026-02-16T09:19:09.785Z"}
+{"level":"info","message":"POST /api/auth/register","service":"sleep-disorder-api","timestamp":"2026-02-16T09:20:50.827Z"}
+{"level":"info","message":"New user registered: vemulasaisowmika@gmail.com","service":"sleep-disorder-api","timestamp":"2026-02-16T09:20:52.382Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T09:21:02.417Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T09:21:02.431Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T09:21:02.437Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T09:21:02.443Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T09:22:23.644Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 7 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T09:22:23.782Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T09:22:29.085Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T09:22:30.814Z"}
+{"level":"info","message":"Running prediction on 7 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T09:22:30.833Z"}
+{"level":"error","message":"ML Service error:","service":"sleep-disorder-api","timestamp":"2026-02-16T09:22:30.919Z"}
+{"isOperational":true,"level":"error","message":"Prediction service error: Failed to generate prediction","service":"sleep-disorder-api","stack":"Error: Failed to generate prediction\n    at Object.predict (C:\\CSE_C_14\\backend\\src\\services\\mlService.js:41:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.predict (C:\\CSE_C_14\\backend\\src\\services\\predictionService.js:7:20)\n    at async runPrediction (C:\\CSE_C_14\\backend\\src\\controllers\\predictionController.js:25:30)","statusCode":500,"timestamp":"2026-02-16T09:22:30.921Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T09:22:34.759Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 6 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T09:22:34.795Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T09:22:38.062Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T09:22:38.067Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T09:22:39.008Z"}
+{"level":"info","message":"Running prediction on 13 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T09:22:39.019Z"}
+{"level":"error","message":"ML Service error:","service":"sleep-disorder-api","timestamp":"2026-02-16T09:22:39.070Z"}
+{"isOperational":true,"level":"error","message":"Prediction service error: Failed to generate prediction","service":"sleep-disorder-api","stack":"Error: Failed to generate prediction\n    at Object.predict (C:\\CSE_C_14\\backend\\src\\services\\mlService.js:41:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.predict (C:\\CSE_C_14\\backend\\src\\services\\predictionService.js:7:20)\n    at async runPrediction (C:\\CSE_C_14\\backend\\src\\controllers\\predictionController.js:25:30)","statusCode":500,"timestamp":"2026-02-16T09:22:39.070Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T09:22:47.141Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 20 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T09:22:47.219Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T09:22:53.627Z"}
+{"level":"info","message":"Running prediction on 33 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T09:22:53.635Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: normal","service":"sleep-disorder-api","timestamp":"2026-02-16T09:22:53.800Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T09:22:54.456Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T09:22:54.460Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T09:24:33.641Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 4 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T09:24:33.763Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T09:24:37.994Z"}
+{"level":"info","message":"Running prediction on 37 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T09:24:38.006Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: normal","service":"sleep-disorder-api","timestamp":"2026-02-16T09:24:38.163Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T09:24:43.528Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T09:24:44.544Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T09:26:43.815Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 20 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T09:26:43.998Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T09:26:47.949Z"}
+{"level":"info","message":"Running prediction on 57 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T09:26:47.964Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: normal","service":"sleep-disorder-api","timestamp":"2026-02-16T09:26:48.131Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T09:26:48.808Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T09:26:48.814Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-16T09:26:58.432Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T09:27:03.127Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T09:27:12.279Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T09:27:12.283Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T09:36:46.017Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 1 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T09:36:46.133Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T09:36:54.605Z"}
+{"level":"info","message":"Running prediction on 58 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T09:36:54.630Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: normal","service":"sleep-disorder-api","timestamp":"2026-02-16T09:36:54.824Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T09:36:55.524Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T09:36:55.528Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T09:36:59.848Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T09:37:10.857Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T09:37:10.867Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T09:40:04.986Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 7 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T09:40:05.292Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T09:40:12.077Z"}
+{"level":"info","message":"Running prediction on 65 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T09:40:12.090Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: normal","service":"sleep-disorder-api","timestamp":"2026-02-16T09:40:12.268Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T09:40:12.958Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T09:40:12.969Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T09:40:43.238Z"}
+{"level":"info","message":"Running prediction on 65 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T09:40:43.342Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: normal","service":"sleep-disorder-api","timestamp":"2026-02-16T09:40:43.517Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T09:40:44.108Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T09:40:44.113Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T09:43:31.988Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 6 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T09:43:32.109Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T09:43:38.673Z"}
+{"level":"info","message":"Running prediction on 71 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T09:43:38.688Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: normal","service":"sleep-disorder-api","timestamp":"2026-02-16T09:43:38.865Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T09:43:39.459Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T09:43:39.466Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T09:43:46.359Z"}
+{"level":"info","message":"PATCH /api/recommendations/d80b9e26-580b-477f-9221-2bd9de1e3695/read","service":"sleep-disorder-api","timestamp":"2026-02-16T09:43:48.064Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T09:43:48.623Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T09:43:59.166Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T09:44:01.119Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T09:44:04.543Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T09:44:04.547Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T09:46:19.412Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 4 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T09:46:19.522Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T09:46:45.638Z"}
+{"level":"info","message":"Running prediction on 75 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T09:46:45.651Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: normal","service":"sleep-disorder-api","timestamp":"2026-02-16T09:46:45.830Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T09:46:46.461Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T09:46:46.467Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T09:47:24.474Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 20 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T09:47:24.653Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T09:47:34.940Z"}
+{"level":"info","message":"Running prediction on 95 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T09:47:34.953Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: normal","service":"sleep-disorder-api","timestamp":"2026-02-16T09:47:35.119Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T09:47:35.748Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T09:47:35.904Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T09:47:48.378Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-16T09:47:50.597Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T09:47:50.607Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-16T09:47:51.372Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T09:48:29.407Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-16T09:48:29.766Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T09:48:31.780Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T09:48:31.863Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-16T09:48:39.985Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T09:48:40.322Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-16T09:48:41.237Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-16T09:48:42.594Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T09:49:24.309Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 2 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T09:49:24.443Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T09:49:28.789Z"}
+{"level":"info","message":"Running prediction on 97 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T09:49:28.802Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: normal","service":"sleep-disorder-api","timestamp":"2026-02-16T09:49:29.013Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T09:49:47.902Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T09:49:47.907Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-16T09:49:55.881Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T09:49:57.835Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-16T09:49:58.763Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T09:50:12.226Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T09:50:12.231Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T09:50:54.178Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T09:50:54.183Z"}
+{"level":"info","message":"SIGINT signal received: closing HTTP server","service":"sleep-disorder-api","timestamp":"2026-02-16T09:58:36.149Z"}
+{"level":"info","message":"🚀 Server running on port 3000","service":"sleep-disorder-api","timestamp":"2026-02-16T09:59:39.407Z"}
+{"level":"info","message":"📊 Environment: development","service":"sleep-disorder-api","timestamp":"2026-02-16T09:59:39.414Z"}
+{"level":"info","message":"🔗 API available at http://localhost:3000","service":"sleep-disorder-api","timestamp":"2026-02-16T09:59:39.416Z"}
+{"level":"info","message":"🚀 Server running on port 3000","service":"sleep-disorder-api","timestamp":"2026-02-16T12:38:13.021Z"}
+{"level":"info","message":"📊 Environment: development","service":"sleep-disorder-api","timestamp":"2026-02-16T12:38:13.028Z"}
+{"level":"info","message":"🔗 API available at http://localhost:3000","service":"sleep-disorder-api","timestamp":"2026-02-16T12:38:13.029Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T12:49:24.572Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T12:49:24.612Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T12:49:24.619Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T12:49:24.625Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T12:49:30.069Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T12:49:30.077Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T13:15:11.911Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 43 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T13:15:12.124Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T13:15:15.564Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T13:15:17.921Z"}
+{"level":"info","message":"Running prediction on 140 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T13:15:17.951Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: normal","service":"sleep-disorder-api","timestamp":"2026-02-16T13:15:18.175Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T13:15:18.841Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T13:15:18.845Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T13:17:55.584Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 3 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T13:17:55.730Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T13:18:40.465Z"}
+{"level":"info","message":"Running prediction on 143 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T13:18:40.669Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: normal","service":"sleep-disorder-api","timestamp":"2026-02-16T13:18:40.871Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T13:18:41.455Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T13:18:41.465Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T13:18:44.355Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 3 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T13:18:44.391Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T13:18:48.576Z"}
+{"level":"info","message":"Running prediction on 146 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T13:18:48.593Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: normal","service":"sleep-disorder-api","timestamp":"2026-02-16T13:18:48.738Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T13:18:49.375Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T13:18:49.379Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T13:23:56.002Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 21 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T13:23:56.151Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T13:24:01.493Z"}
+{"level":"info","message":"Running prediction on 167 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T13:24:01.512Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: normal","service":"sleep-disorder-api","timestamp":"2026-02-16T13:24:01.711Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T13:24:02.409Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T13:24:02.415Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T13:24:55.393Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 1 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T13:24:55.505Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T13:25:55.712Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 2 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T13:25:55.829Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T13:26:01.893Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 2 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T13:26:01.916Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T13:26:04.367Z"}
+{"level":"info","message":"Running prediction on 172 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T13:26:04.383Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: normal","service":"sleep-disorder-api","timestamp":"2026-02-16T13:26:04.525Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T13:26:05.288Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T13:26:05.295Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-16T13:26:27.003Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T13:26:28.226Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T13:26:30.129Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-16T13:26:30.981Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-16T13:26:31.565Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-16T13:27:08.882Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T13:29:02.889Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 6 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T13:29:03.011Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T13:29:07.141Z"}
+{"level":"info","message":"Running prediction on 178 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T13:29:07.160Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: normal","service":"sleep-disorder-api","timestamp":"2026-02-16T13:29:07.385Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T13:29:08.085Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T13:29:08.090Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T13:29:14.529Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T13:29:20.563Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T13:29:21.381Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T13:29:21.385Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T13:29:28.555Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-16T13:29:30.803Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T13:29:30.809Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-16T13:29:45.456Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T13:29:46.572Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-16T13:29:48.953Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T14:32:55.058Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T14:32:55.066Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T14:32:55.071Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T14:32:55.074Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T14:33:16.578Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T14:33:18.143Z"}
+{"level":"info","message":"Running prediction on 178 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T14:33:18.159Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: normal","service":"sleep-disorder-api","timestamp":"2026-02-16T14:33:18.352Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T14:33:18.971Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T14:33:18.977Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T14:37:23.173Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 9 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T14:37:23.305Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T14:37:27.267Z"}
+{"level":"info","message":"Running prediction on 187 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T14:37:27.282Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: normal","service":"sleep-disorder-api","timestamp":"2026-02-16T14:37:27.455Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T14:37:28.137Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T14:37:28.141Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:04:54.943Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T15:04:54.947Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-16T15:05:00.507Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:00.042Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:00.045Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:08.954Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:19.189Z"}
+{"level":"info","message":"PATCH /api/recommendations/e5a752ec-6dd9-44cc-85bb-9a9f064c1ae9/read","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:20.574Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:20.605Z"}
+{"level":"info","message":"PATCH /api/recommendations/a0bf1db5-87e9-44f5-8580-6eac5fc38996/read","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:21.541Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:21.565Z"}
+{"level":"info","message":"PATCH /api/recommendations/bf51da48-a2d6-461c-91a0-c661a9ccb702/read","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:23.685Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:23.709Z"}
+{"level":"info","message":"PATCH /api/recommendations/85776d64-1e5b-4c2e-80eb-e4e53ae656fd/read","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:24.352Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:24.365Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:25.982Z"}
+{"level":"info","message":"PATCH /api/recommendations/51b95dd1-46cd-460e-b8ab-784367918d74/read","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:28.555Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:29.284Z"}
+{"level":"info","message":"PATCH /api/recommendations/392f43ec-0945-441f-b26d-4b9fba38fbd4/read","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:30.838Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:30.860Z"}
+{"level":"info","message":"PATCH /api/recommendations/c5123e7e-5b49-4251-b851-ff360961d1ca/read","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:32.904Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:32.925Z"}
+{"level":"info","message":"PATCH /api/recommendations/34cba4fb-adb2-430d-a967-9be28c2d3207/read","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:34.151Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:34.173Z"}
+{"level":"info","message":"PATCH /api/recommendations/4fca149e-2e03-4bce-bb38-ed0209f2923c/read","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:35.554Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:35.577Z"}
+{"level":"info","message":"PATCH /api/recommendations/620973b0-5a78-4b71-b064-22e7367233f6/read","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:36.631Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:36.646Z"}
+{"level":"info","message":"PATCH /api/recommendations/c4b0afe3-83ad-4947-b889-d5ab02878a7d/read","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:37.664Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:37.678Z"}
+{"level":"info","message":"PATCH /api/recommendations/0801a84f-62d7-4986-a8ce-b50af7bcdd31/read","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:39.511Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:39.532Z"}
+{"level":"info","message":"PATCH /api/recommendations/fbb09fc4-5344-481c-9468-44109f4e1e57/read","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:40.029Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:40.047Z"}
+{"level":"info","message":"PATCH /api/recommendations/0ba3752e-bfa5-4cbf-af93-ae39ea5b68f9/read","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:41.128Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:41.153Z"}
+{"level":"info","message":"PATCH /api/recommendations/7e5b18f4-4eef-4c8a-bec5-7db6ab56528e/read","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:42.724Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:42.749Z"}
+{"level":"info","message":"PATCH /api/recommendations/010a2dac-9686-43ad-9626-195e02138780/read","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:43.917Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:43.939Z"}
+{"level":"info","message":"PATCH /api/recommendations/528cd562-835d-4fd2-9b35-e88b553540b2/read","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:45.432Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:45.455Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:48.832Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:16:48.887Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T15:17:12.420Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:17:12.423Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T15:17:17.580Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:17:17.583Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T15:18:13.002Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:18:13.017Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T15:19:21.062Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:19:21.065Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:22:23.698Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T15:22:23.701Z"}
+{"level":"info","message":"🚀 Server running on port 3000","service":"sleep-disorder-api","timestamp":"2026-02-16T15:35:40.386Z"}
+{"level":"info","message":"📊 Environment: development","service":"sleep-disorder-api","timestamp":"2026-02-16T15:35:40.393Z"}
+{"level":"info","message":"🔗 API available at http://localhost:3000","service":"sleep-disorder-api","timestamp":"2026-02-16T15:35:40.394Z"}
+{"level":"info","message":"🚀 Server running on port 3000","service":"sleep-disorder-api","timestamp":"2026-02-16T15:44:48.816Z"}
+{"level":"info","message":"📊 Environment: development","service":"sleep-disorder-api","timestamp":"2026-02-16T15:44:48.823Z"}
+{"level":"info","message":"🔗 API available at http://localhost:3000","service":"sleep-disorder-api","timestamp":"2026-02-16T15:44:48.824Z"}
+{"level":"info","message":"SIGINT signal received: closing HTTP server","service":"sleep-disorder-api","timestamp":"2026-02-16T15:45:29.029Z"}
+{"level":"info","message":"🚀 Server running on port 3000","service":"sleep-disorder-api","timestamp":"2026-02-16T15:46:29.301Z"}
+{"level":"info","message":"📊 Environment: development","service":"sleep-disorder-api","timestamp":"2026-02-16T15:46:29.307Z"}
+{"level":"info","message":"🔗 API available at http://localhost:3000","service":"sleep-disorder-api","timestamp":"2026-02-16T15:46:29.309Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T15:52:49.034Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:52:49.058Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T15:52:49.063Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:52:49.067Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T15:53:23.339Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T15:53:23.346Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:53:23.350Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:53:23.354Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-16T15:53:45.196Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T15:53:45.226Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T15:53:45.931Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-16T15:53:47.628Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T15:53:49.115Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-16T15:53:50.588Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T15:54:50.626Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 2 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T15:54:50.731Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T15:55:18.576Z"}
+{"level":"info","message":"Running prediction on 189 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T15:55:18.593Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: normal","service":"sleep-disorder-api","timestamp":"2026-02-16T15:55:18.777Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T15:55:19.412Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:55:19.419Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T15:56:05.732Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 2 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T15:56:05.817Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T15:56:09.395Z"}
+{"level":"info","message":"Running prediction on 191 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T15:56:09.412Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: normal","service":"sleep-disorder-api","timestamp":"2026-02-16T15:56:09.556Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T15:56:10.241Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:56:10.248Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T15:56:47.109Z"}
+{"level":"info","message":"Running prediction on 191 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T15:56:47.195Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: normal","service":"sleep-disorder-api","timestamp":"2026-02-16T15:56:47.342Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T15:56:47.949Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:56:47.958Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T15:57:03.113Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-16T15:57:06.134Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-16T15:57:13.393Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T15:57:18.319Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:57:18.328Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T15:57:30.562Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 20 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T15:57:30.611Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T15:57:33.997Z"}
+{"level":"info","message":"Running prediction on 211 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T15:57:34.007Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: dsps","service":"sleep-disorder-api","timestamp":"2026-02-16T15:57:34.140Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T15:57:34.822Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:57:36.173Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:58:05.697Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:58:28.987Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T15:58:28.990Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T15:58:42.063Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-16T15:58:42.125Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-16T15:58:45.092Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T15:58:45.645Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:58:45.648Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T15:59:11.496Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 4 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T15:59:11.513Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T15:59:14.128Z"}
+{"level":"info","message":"Running prediction on 215 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T15:59:14.142Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: dsps","service":"sleep-disorder-api","timestamp":"2026-02-16T15:59:14.287Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T15:59:14.973Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:59:14.978Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:59:25.719Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T15:59:29.784Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T15:59:29.790Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:00:25.497Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:00:25.500Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T16:00:32.489Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 2 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T16:00:32.509Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T16:00:35.938Z"}
+{"level":"info","message":"Running prediction on 217 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T16:00:35.952Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: dsps","service":"sleep-disorder-api","timestamp":"2026-02-16T16:00:36.104Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:00:38.628Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:00:38.633Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T16:01:35.847Z"}
+{"level":"info","message":"Running prediction on 217 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T16:01:35.922Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: dsps","service":"sleep-disorder-api","timestamp":"2026-02-16T16:01:36.074Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:01:36.703Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:01:36.710Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T16:02:49.518Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 6 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T16:02:49.621Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T16:02:53.266Z"}
+{"level":"info","message":"Running prediction on 223 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T16:02:53.279Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: dsps","service":"sleep-disorder-api","timestamp":"2026-02-16T16:02:53.424Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:02:54.051Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:02:54.059Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:02:57.441Z"}
+{"level":"info","message":"PATCH /api/recommendations/30de051c-06f1-40dd-8574-4c8a2865ab0a/read","service":"sleep-disorder-api","timestamp":"2026-02-16T16:02:59.536Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:02:59.560Z"}
+{"level":"info","message":"PATCH /api/recommendations/9b7de731-43d1-40e9-86b2-a89fc6b59540/read","service":"sleep-disorder-api","timestamp":"2026-02-16T16:03:00.853Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:03:00.888Z"}
+{"level":"info","message":"PATCH /api/recommendations/b611c450-3d6a-491e-938d-950c632977e8/read","service":"sleep-disorder-api","timestamp":"2026-02-16T16:03:03.622Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:03:03.645Z"}
+{"level":"info","message":"PATCH /api/recommendations/555f8ac7-b8a1-4c03-a3c2-0b6e0c903489/read","service":"sleep-disorder-api","timestamp":"2026-02-16T16:03:04.942Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:03:04.962Z"}
+{"level":"info","message":"PATCH /api/recommendations/4d795a04-7bd2-4ab4-9698-89834d621f32/read","service":"sleep-disorder-api","timestamp":"2026-02-16T16:03:06.385Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:03:06.407Z"}
+{"level":"info","message":"PATCH /api/recommendations/e907496f-9f0b-4a4c-a9be-651553e0dcc3/read","service":"sleep-disorder-api","timestamp":"2026-02-16T16:03:08.718Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:03:08.741Z"}
+{"level":"info","message":"PATCH /api/recommendations/9b4a1773-acef-4d82-a136-7cc779c91b7a/read","service":"sleep-disorder-api","timestamp":"2026-02-16T16:03:09.220Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:03:09.243Z"}
+{"level":"info","message":"PATCH /api/recommendations/055316ad-cec8-4eea-8f30-b3957286f8da/read","service":"sleep-disorder-api","timestamp":"2026-02-16T16:03:16.165Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:03:16.188Z"}
+{"level":"info","message":"PATCH /api/recommendations/4098624f-4d23-4e3c-bd4f-5f9213591744/read","service":"sleep-disorder-api","timestamp":"2026-02-16T16:03:16.191Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:03:16.297Z"}
+{"level":"info","message":"PATCH /api/recommendations/854a387b-59d8-4310-b26c-52978ba26fb2/read","service":"sleep-disorder-api","timestamp":"2026-02-16T16:03:18.025Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:03:18.040Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:03:31.143Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:03:31.825Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:03:32.352Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:03:32.355Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:06:01.429Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-16T16:06:02.883Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:06:09.139Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:06:09.142Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:06:12.094Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:06:17.119Z"}
+{"level":"info","message":"PATCH /api/recommendations/82fafd70-869d-48dd-90f6-942cbee58e3a/read","service":"sleep-disorder-api","timestamp":"2026-02-16T16:06:19.428Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:06:19.984Z"}
+{"level":"info","message":"PATCH /api/recommendations/70149452-f472-468b-8de4-5a3352deca9b/read","service":"sleep-disorder-api","timestamp":"2026-02-16T16:06:20.313Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:06:20.338Z"}
+{"level":"info","message":"PATCH /api/recommendations/0a18a76b-05cf-432e-9e83-a8d771d533e1/read","service":"sleep-disorder-api","timestamp":"2026-02-16T16:06:21.091Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:06:21.106Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:06:23.415Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:06:32.261Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:06:33.500Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:06:33.705Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T16:07:20.944Z"}
+{"level":"info","message":"Running prediction on 223 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T16:07:21.023Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: dsps","service":"sleep-disorder-api","timestamp":"2026-02-16T16:07:21.169Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:07:21.752Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:07:21.755Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:07:32.330Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:07:49.692Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:07:49.695Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:07:53.511Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:08:05.074Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:08:05.077Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:08:08.920Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:08:10.493Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:08:10.495Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:08:12.287Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:09:19.581Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:09:19.584Z"}
+{"level":"info","message":"🚀 Server running on port 3000","service":"sleep-disorder-api","timestamp":"2026-02-16T16:12:12.673Z"}
+{"level":"info","message":"📊 Environment: development","service":"sleep-disorder-api","timestamp":"2026-02-16T16:12:12.682Z"}
+{"level":"info","message":"🔗 API available at http://localhost:3000","service":"sleep-disorder-api","timestamp":"2026-02-16T16:12:12.683Z"}
+{"level":"info","message":"🚀 Server running on port 3000","service":"sleep-disorder-api","timestamp":"2026-02-16T16:12:14.099Z"}
+{"level":"info","message":"📊 Environment: development","service":"sleep-disorder-api","timestamp":"2026-02-16T16:12:14.105Z"}
+{"level":"info","message":"🔗 API available at http://localhost:3000","service":"sleep-disorder-api","timestamp":"2026-02-16T16:12:14.107Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T16:12:22.774Z"}
+{"level":"info","message":"Running prediction on 223 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T16:12:22.900Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: dsps","service":"sleep-disorder-api","timestamp":"2026-02-16T16:12:23.074Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:12:23.744Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:12:23.756Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:12:26.227Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:12:29.207Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:12:29.211Z"}
+{"level":"info","message":"SIGINT signal received: closing HTTP server","service":"sleep-disorder-api","timestamp":"2026-02-16T16:14:11.345Z"}
+{"level":"info","message":"🚀 Server running on port 3000","service":"sleep-disorder-api","timestamp":"2026-02-16T16:14:19.566Z"}
+{"level":"info","message":"📊 Environment: development","service":"sleep-disorder-api","timestamp":"2026-02-16T16:14:19.573Z"}
+{"level":"info","message":"🔗 API available at http://localhost:3000","service":"sleep-disorder-api","timestamp":"2026-02-16T16:14:19.573Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:14:30.398Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:14:30.419Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:14:30.426Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:14:30.430Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T16:14:42.875Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 2 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T16:14:42.915Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:14:46.530Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T16:14:48.003Z"}
+{"level":"info","message":"Running prediction on 225 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T16:14:48.022Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: dsps","service":"sleep-disorder-api","timestamp":"2026-02-16T16:14:48.204Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:14:48.970Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:14:51.281Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:14:56.506Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:15:15.681Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:15:15.684Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:15:19.690Z"}
+{"level":"info","message":"PATCH /api/recommendations/319a083c-28ef-4bf2-be9f-e18eccf68d29/read","service":"sleep-disorder-api","timestamp":"2026-02-16T16:15:58.443Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:15:58.640Z"}
+{"level":"info","message":"PATCH /api/recommendations/356d60e3-0e4e-49f9-afb5-96681d34cd79/read","service":"sleep-disorder-api","timestamp":"2026-02-16T16:16:02.705Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:16:02.725Z"}
+{"level":"info","message":"PATCH /api/recommendations/05e4c81c-25fa-4efd-9350-e5c03d3007e4/read","service":"sleep-disorder-api","timestamp":"2026-02-16T16:16:03.367Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:16:03.400Z"}
+{"level":"info","message":"PATCH /api/recommendations/b798440a-8e7c-48d2-8e8c-de2f4432320a/read","service":"sleep-disorder-api","timestamp":"2026-02-16T16:16:04.512Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:16:04.538Z"}
+{"level":"info","message":"PATCH /api/recommendations/0e5e07ef-b174-47b2-a034-39db11add17f/read","service":"sleep-disorder-api","timestamp":"2026-02-16T16:16:05.646Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:16:05.669Z"}
+{"level":"info","message":"PATCH /api/recommendations/12f74188-8fec-4059-99be-3235c122adb1/read","service":"sleep-disorder-api","timestamp":"2026-02-16T16:16:06.674Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:16:06.713Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:16:11.348Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:16:12.127Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:16:15.640Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:16:15.644Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T16:25:37.599Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 4 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T16:25:37.714Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T16:25:41.086Z"}
+{"level":"info","message":"Running prediction on 229 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T16:25:41.099Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: dsps","service":"sleep-disorder-api","timestamp":"2026-02-16T16:25:41.235Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:25:41.948Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:25:41.952Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:25:47.405Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:25:49.333Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:25:51.408Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:25:51.414Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:25:55.307Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:25:55.310Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-16T16:25:59.523Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:26:05.163Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:26:05.171Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:26:06.346Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:26:07.665Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:26:08.647Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:26:10.714Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:26:19.717Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:26:22.375Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:26:50.791Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:26:52.379Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:41:23.648Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:41:23.653Z"}
+{"level":"info","message":"🚀 Server running on port 3000","service":"sleep-disorder-api","timestamp":"2026-02-16T16:41:33.459Z"}
+{"level":"info","message":"📊 Environment: development","service":"sleep-disorder-api","timestamp":"2026-02-16T16:41:33.466Z"}
+{"level":"info","message":"🔗 API available at http://localhost:3000","service":"sleep-disorder-api","timestamp":"2026-02-16T16:41:33.467Z"}
+{"level":"info","message":"SIGINT signal received: closing HTTP server","service":"sleep-disorder-api","timestamp":"2026-02-16T16:43:45.214Z"}
+{"level":"info","message":"🚀 Server running on port 3000","service":"sleep-disorder-api","timestamp":"2026-02-16T16:44:09.520Z"}
+{"level":"info","message":"📊 Environment: development","service":"sleep-disorder-api","timestamp":"2026-02-16T16:44:09.526Z"}
+{"level":"info","message":"🔗 API available at http://localhost:3000","service":"sleep-disorder-api","timestamp":"2026-02-16T16:44:09.527Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T16:44:57.116Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 4 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T16:44:57.354Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T16:45:18.218Z"}
+{"level":"info","message":"Running prediction on 233 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T16:45:18.238Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: dsps","service":"sleep-disorder-api","timestamp":"2026-02-16T16:45:18.377Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:45:19.328Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:45:19.340Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:45:28.390Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:45:28.394Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:45:29.235Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:45:33.490Z"}
+{"level":"info","message":"PATCH /api/recommendations/87ca802f-5ecf-463d-8a21-2ecbad8544d7/read","service":"sleep-disorder-api","timestamp":"2026-02-16T16:45:36.974Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:45:37.000Z"}
+{"level":"info","message":"PATCH /api/recommendations/6c9b76f0-6a78-4bc9-a80d-a340ffcb20c7/read","service":"sleep-disorder-api","timestamp":"2026-02-16T16:45:37.711Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:45:37.747Z"}
+{"level":"info","message":"PATCH /api/recommendations/7f8d374c-3649-4ec9-a0e8-939bf54b73a5/read","service":"sleep-disorder-api","timestamp":"2026-02-16T16:45:38.624Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:45:38.645Z"}
+{"level":"info","message":"PATCH /api/recommendations/7aa8134b-1714-4cc3-ae37-0f3c0d6fea5a/read","service":"sleep-disorder-api","timestamp":"2026-02-16T16:45:39.154Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:45:39.174Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:45:40.067Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T16:45:53.928Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T16:45:53.931Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-16T17:09:49.693Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 4 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T17:09:49.808Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-16T17:09:52.620Z"}
+{"level":"info","message":"Running prediction on 237 activities","service":"sleep-disorder-api","timestamp":"2026-02-16T17:09:52.637Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: dsps","service":"sleep-disorder-api","timestamp":"2026-02-16T17:09:52.780Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T17:09:53.669Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T17:09:53.676Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T17:10:20.260Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T17:10:25.182Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T17:10:25.187Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T17:10:32.053Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T17:10:32.058Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-16T17:10:41.777Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-16T17:10:41.780Z"}
+{"level":"info","message":"SIGINT signal received: closing HTTP server","service":"sleep-disorder-api","timestamp":"2026-02-16T17:16:04.443Z"}
+{"level":"info","message":"🚀 Server running on port 3000","service":"sleep-disorder-api","timestamp":"2026-02-19T04:13:10.201Z"}
+{"level":"info","message":"📊 Environment: development","service":"sleep-disorder-api","timestamp":"2026-02-19T04:13:10.207Z"}
+{"level":"info","message":"🔗 API available at http://localhost:3000","service":"sleep-disorder-api","timestamp":"2026-02-19T04:13:10.209Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T04:21:14.025Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T04:21:14.065Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:21:14.074Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:21:14.081Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:23:38.551Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T04:23:38.557Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-19T04:27:55.014Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-19T04:27:55.156Z"}
+{"level":"info","message":"Running prediction on 237 activities","service":"sleep-disorder-api","timestamp":"2026-02-19T04:27:55.271Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 2 activities","service":"sleep-disorder-api","timestamp":"2026-02-19T04:27:55.293Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: dsps","service":"sleep-disorder-api","timestamp":"2026-02-19T04:27:55.551Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T04:27:56.376Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:27:56.383Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-19T04:28:00.492Z"}
+{"level":"info","message":"Running prediction on 239 activities","service":"sleep-disorder-api","timestamp":"2026-02-19T04:28:00.509Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: insomnia","service":"sleep-disorder-api","timestamp":"2026-02-19T04:28:00.686Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-19T04:28:13.988Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-19T04:28:35.146Z"}
+{"level":"info","message":"Running prediction on 239 activities","service":"sleep-disorder-api","timestamp":"2026-02-19T04:28:35.165Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: insomnia","service":"sleep-disorder-api","timestamp":"2026-02-19T04:28:35.339Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T04:28:35.996Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:28:36.000Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:28:43.994Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:28:48.799Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T04:28:53.536Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:28:53.540Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-19T04:29:42.291Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 2 activities","service":"sleep-disorder-api","timestamp":"2026-02-19T04:29:42.550Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-19T04:29:46.477Z"}
+{"level":"info","message":"Running prediction on 241 activities","service":"sleep-disorder-api","timestamp":"2026-02-19T04:29:46.496Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: insomnia","service":"sleep-disorder-api","timestamp":"2026-02-19T04:29:46.724Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T04:29:47.399Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:29:47.408Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-19T04:30:04.685Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-19T04:30:05.127Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T04:30:07.888Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T04:39:37.540Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T04:39:45.098Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:39:45.101Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:00.756Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 3 activities","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:00.795Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:04.110Z"}
+{"level":"info","message":"Running prediction on 244 activities","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:04.128Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: insomnia","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:04.291Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:04.901Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:04.913Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:37.208Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 4 activities","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:37.335Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:40.216Z"}
+{"level":"info","message":"Running prediction on 248 activities","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:40.237Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: insomnia","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:40.396Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:41.006Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:41.015Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:43.522Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:45.498Z"}
+{"level":"info","message":"PATCH /api/recommendations/fcf84eab-cb16-4162-8154-909c92092fa1/read","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:46.303Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:46.323Z"}
+{"level":"info","message":"PATCH /api/recommendations/260297f5-673c-4a27-9e2b-8f7df1e6b5b7/read","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:46.880Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:46.932Z"}
+{"level":"info","message":"PATCH /api/recommendations/2a3f050a-20f5-49a2-a30e-ab8b6f285220/read","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:47.479Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:47.504Z"}
+{"level":"info","message":"PATCH /api/recommendations/620c582f-66e7-459f-a203-e42bfbffc566/read","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:48.556Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:48.579Z"}
+{"level":"info","message":"PATCH /api/recommendations/3ba8e771-1ba2-4825-93c7-c0f3ae7a3d4c/read","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:49.088Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:49.111Z"}
+{"level":"info","message":"PATCH /api/recommendations/4206c39a-d55e-47d5-88b7-e6761b55fc64/read","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:50.297Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:50.369Z"}
+{"level":"info","message":"PATCH /api/recommendations/ed79e8b6-aaac-4c7d-9ead-264ab9105591/read","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:51.439Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:51.465Z"}
+{"level":"info","message":"PATCH /api/recommendations/cedb188a-8409-4402-a496-fc92b8554b38/read","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:52.869Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:52.905Z"}
+{"level":"info","message":"PATCH /api/recommendations/4f6f9232-dde6-4cb3-a96e-94ca4415b03f/read","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:53.855Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:53.878Z"}
+{"level":"info","message":"PATCH /api/recommendations/43ba1332-aff6-44f8-8d99-6fcb0278a800/read","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:55.212Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:55.235Z"}
+{"level":"info","message":"PATCH /api/recommendations/ebd3eec4-4841-4300-be46-1f2723a66dfe/read","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:55.838Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:55.856Z"}
+{"level":"info","message":"PATCH /api/recommendations/f71ccae9-efac-4fab-a78d-11537553b2ab/read","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:56.953Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:57.003Z"}
+{"level":"info","message":"PATCH /api/recommendations/00a79b00-c985-4bdd-86fc-890e20c4bca7/read","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:57.567Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:57.591Z"}
+{"level":"info","message":"PATCH /api/recommendations/8d691838-80fd-42bb-a224-85a3f2be7872/read","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:58.272Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:58.298Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:40:59.098Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:41:06.841Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T04:41:06.844Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:41:10.599Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T04:41:10.602Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T04:47:51.315Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:47:51.320Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T04:47:53.974Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:47:53.978Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:47:57.251Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T04:47:57.254Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T04:48:01.821Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:48:01.824Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-19T04:48:09.132Z"}
+{"level":"info","message":"Running prediction on 248 activities","service":"sleep-disorder-api","timestamp":"2026-02-19T04:48:09.149Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: insomnia","service":"sleep-disorder-api","timestamp":"2026-02-19T04:48:09.314Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T04:48:10.073Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T04:48:10.077Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T08:24:45.678Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T08:24:46.706Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T08:24:46.709Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T08:24:46.715Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T08:24:51.587Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T08:26:40.049Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T08:26:40.055Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T08:28:07.842Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T08:28:07.846Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T08:28:30.826Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T08:28:30.829Z"}
+{"level":"info","message":"POST /api/activity/upload","service":"sleep-disorder-api","timestamp":"2026-02-19T08:30:26.963Z"}
+{"level":"info","message":"User ffcad567-37ab-4c6c-925c-93ac439fe919 uploaded 4 activities","service":"sleep-disorder-api","timestamp":"2026-02-19T08:30:27.104Z"}
+{"level":"info","message":"POST /api/prediction/run","service":"sleep-disorder-api","timestamp":"2026-02-19T08:30:31.578Z"}
+{"level":"info","message":"Running prediction on 252 activities","service":"sleep-disorder-api","timestamp":"2026-02-19T08:30:31.602Z"}
+{"level":"info","message":"Prediction generated for user ffcad567-37ab-4c6c-925c-93ac439fe919: insomnia","service":"sleep-disorder-api","timestamp":"2026-02-19T08:30:31.787Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T08:30:32.411Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T08:30:33.417Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T08:32:01.608Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T08:32:01.611Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T08:32:46.557Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-19T08:32:46.947Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T08:32:47.769Z"}
+{"level":"info","message":"GET /api/activity/history","service":"sleep-disorder-api","timestamp":"2026-02-19T08:32:48.991Z"}
+{"level":"info","message":"GET /api/prediction/latest","service":"sleep-disorder-api","timestamp":"2026-02-19T08:33:38.962Z"}
+{"level":"info","message":"GET /api/recommendations","service":"sleep-disorder-api","timestamp":"2026-02-19T08:33:38.966Z"}
+{"level":"info","message":"SIGINT signal received: closing HTTP server","service":"sleep-disorder-api","timestamp":"2026-02-19T08:36:50.039Z"}
